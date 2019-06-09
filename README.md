@@ -4,4 +4,4 @@ This is a script that I wrote with Python 3.7+ that takes user inputs related to
 
 I left out all currency designations because they are unnecessary for an input/output computation that is based solely on math. I also kept the calculations to 2-D space because the most common type of calculation related to construction/renovation projects pertains to flooring plans, as walls (which would constitute the 3-D space) are frequently calculated separately.
 
-The goal of this script is to shorten the time it takes to calculate cost estimates for construction/renovation projects, especially related to flooring.
+The goal of this script is to shorten the time it takes to calculate cost estimates for construction/renovation projects, especially related to flooring. Rather than mashing the buttons on a calculator all day long and converting tax rates, you can simply answer the prompts of this script and it does all of the work for you.
